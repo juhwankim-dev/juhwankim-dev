@@ -17,9 +17,7 @@
 - 🤖 want to be a Android Developer
 
 ### Experience
-- 📘 [Write a book](https://www.notion.so/3d1ed8c4d5554610977d89634fe999e4) (2015.3 ~ 2015.6)
 - 💙 [Samsung Mutlicampus Android Develop Program](https://www.notion.so/Samsung-multi-campus-17a5ff5767e7455e8653379983ed6831) (2018.07 ~ 2018.08)
-- 🎓 FH Aachen University, Germany(Exchange) (2019.09 ~ 2020.07)
 - 💻 [SSAFY(Samsung SW Aducation For Youth) Mobile Track](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (2021.11 ~ )
 
 ### What I Like
