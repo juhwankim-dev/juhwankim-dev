@@ -18,7 +18,7 @@
 
 ### Experience
 - 💙 [Samsung Mutlicampus Android Develop Program](https://www.notion.so/Samsung-multi-campus-17a5ff5767e7455e8653379983ed6831) (2018.07 ~ 2018.08)
-- 💻 [SSAFY(Samsung SW Aducation For Youth) Mobile Track](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (2021.11 ~ )
+- 💻 [SSAFY(Samsung SW Aducation For Youth) Mobile Track](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (2021.07 ~ 2022.07)
 
 ### What I Like
 - ✍ Writing
